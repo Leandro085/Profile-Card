@@ -1,2 +1,2 @@
 # Profile-Card
- Feito com HTML e SCSS
+ Feito com HTML, CSS e SCSS
